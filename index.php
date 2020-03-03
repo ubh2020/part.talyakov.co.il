@@ -1,6 +1,9 @@
+<?php
 <html>
 <!-- Owned -->
-<title>Developed By UBSI Black Hat</title>
+<head>
+<title>Developed By UBSI Black Hat</title></head>
+<body>
 <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQCehimSo9YSgNPDU6oJypeVTGdDS4vwTomvto9pdv-qODFHCG">
 <meta name="description" content="Love You">
 <style>
@@ -25,5 +28,6 @@
         </i></b>
     </td>
 </table>
-
+</body>
 </html>
+?>
