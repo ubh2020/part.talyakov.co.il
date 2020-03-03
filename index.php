@@ -1,3 +1,4 @@
+<?php
 <html>
 <!-- Owned -->
 <title>Developed By UBSI Black Hat</title>
@@ -27,3 +28,4 @@
 </table>
 
 </html>
+            ?>
